@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.box {
+    position:relative;
+}
+.bet_time {
+    position: fixed;
+    bottom:0;
+    right:0;
+}
